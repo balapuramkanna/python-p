@@ -1,0 +1,53 @@
+  1)what is mean by 1 byte?
+
+
+
+   - one byte is a memory location with a size of 8 bits.
+   - a bytes object is an immutable sequence of bytes, conceptually similar to a string.
+      of a bytes object is an unsigned int that satisfies 0 ≤ x 0 b 1111_1111.
+
+
+
+
+2)what is mean by 1 bit?
+
+  - a bit is a 0/1 value,and a byte is 8 bits .
+  - most modern computers are 64-bit architectures on which
+      python 3 will use 64 bits to represent number.
+   -some computers may be 32-bit architectures, and python may use
+     32-bits to represent numbers.
+
+
+
+3)what is mean by 1 kbs ?
+
+  -kilobytes (KB):1,024 bytes make up a kilobyte.
+  -this is a small book's worth of text.
+
+
+
+4)what is mean by 1 mbs?
+
+ - a megabyte (MB) is a unit of data capacity that is equal to 1,000,000 - -
+    bytes in decimal notation or 1,048,576 bytes in binary notation.
+  -it is used to measure the size of large files, such as image files or JPEG files.
+
+
+
+5)what is mean by 1 gbs? 
+
+ - In data communications, 1 gigabit (Gb) is equal to 1 billion bits,
+    or 1,000,000,000 bits (109). It's used to measure
+ - the amount of data transferred between two telecommunication points in a second.
+
+             Bit: A single binary digit that can be either 0 or 1
+             Byte: 8 bits
+             Kilobyte (KB): 1,024 bytes
+             Megabyte (MB): 1,024 kilobytes
+             Gigabyte (GB): 1,024 megabytes
+
+          1024 bytes = 1 KB
+          1024 KB = 1 MB
+          1024 MB = 1 GB
+          1024 GB = 1 TB
+          1024 TB = 1 PB
